@@ -1,4 +1,4 @@
-#ifndef TYPES_H
+#pragma once
 #define TYPES_H
 
 #include <inttypes.h>
@@ -15,5 +15,3 @@ typedef int64_t i64;
 
 typedef float f32;
 typedef double f64;
-
-#endif

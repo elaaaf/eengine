@@ -1,4 +1,4 @@
-#ifndef GLOBAL_H
+#pragma once
 #define GLOBAL_H
 
 #include "render/render.h"
@@ -8,5 +8,3 @@ Render_State render;
 } Global;
 
 extern Global global;
-
-#endif
